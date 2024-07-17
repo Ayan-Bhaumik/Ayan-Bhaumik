@@ -3,19 +3,19 @@
 <h3 align="center">A Dynamic and outcome-oriented frontend developer from India,Tripura</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-- 🔭 I’m currently working on [OraRide official Website](https://oraride.com/)
+- 🔭 I’m currently working on : [OraRide official Website](https://oraride.com/)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning : **Angular**
 
 - 👨‍💻 All of my projects are available at [https://ayanbhaumik.xyz/](https://ayanbhaumik.xyz/)
 
-- 💬 Ask me about **HTML, TailWind & React**
+- 💬 Ask me about : **HTML, TailWind & React**
 
 - 📫 How to reach me **mrayanbhaumik@gmail.com**
 
 - 📄 Know about my experiences [https://ayanbhaumik.xyz/assets/Ayan%20Bhaumik.pdf](https://ayanbhaumik.xyz/assets/Ayan%20Bhaumik.pdf)
 
-- ⚡ Fun fact I always try find the shortest way to make my project best 
+- ⚡ Fun fact : **I always try find the shortest way to make my project best** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
