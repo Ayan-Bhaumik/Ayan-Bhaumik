@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://ayanbhaumik.xyz/assets/Ayan%20Bhaumik.pdf](https://ayanbhaumik.xyz/assets/Ayan%20Bhaumik.pdf)
 
-- ⚡ Fun fact **I always try find the shortest way to make my project best **
+- ⚡ Fun fact I always try find the shortest way to make my project best 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
