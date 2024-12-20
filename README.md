@@ -1,6 +1,6 @@
 [<img align="center" src="./github-header-image.png">](https://ayanbhaumik.xyz/)
 <h1 align="center">Hi 👋🏻, I'm Ayan Bhaumik</h1>
-<h3 align="center">A Dynamic and outcome-oriented frontend developer from India,Tripura</h3>
+<h3 align="center">A frontend developer and Open Source Contributer from India,Tripura</h3>
 <img align="right" alt="Coding" width="400" src="./Working.gif">
 
 
