@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="./Working.gif">
 
 
-- 🔭 I’m currently working on : [Agnirva Global Space Community](https://www.agnirva.com/)
+- 🔭 I’m currently working as : [Open Source Contributer]
 
 - 🌱 I’m currently learning : **Angular**
 
