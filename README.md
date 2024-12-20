@@ -4,13 +4,13 @@
 <img align="right" alt="Coding" width="400" src="./Working.gif">
 
 
-- 🔭 I’m currently working as : [Open Source Contributer]
+- 🔭 I’m currently working as : **Open Source Contributer**
 
 - 🌱 I’m currently learning : **Angular**
 
 - 👨‍💻 All of my projects are available at [https://ayanbhaumik.xyz/](https://ayanbhaumik.xyz/)
 
-- 💬 Ask me about : **HTML, TailWind & React**
+- 💬 Ask me about : **Python, JS, NLP & React**
 
 - 📫 How to reach me **mrayanbhaumik@gmail.com**
 
