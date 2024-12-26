@@ -1,4 +1,4 @@
-[<img align="center" src="./github-header-image.png">](https://ayanbhaumik.xyz/)
+[<img align="center" src="./github-header-image.png">](https://ayanbhaumik.in/)
 <h1 align="center">Hi 👋🏻, I'm Ayan Bhaumik</h1>
 <h3 align="center">A frontend developer and Open Source Contributer from India,Tripura</h3>
 <img align="right" alt="Coding" width="400" src="./Working.gif">
@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning : **Angular**
 
-- 👨‍💻 All of my projects are available at [https://ayanbhaumik.xyz/](https://ayanbhaumik.xyz/)
+- 👨‍💻 All of my projects are available at [https://ayanbhaumik.in/](https://ayanbhaumik.in/)
 
 - 💬 Ask me about : **Python, JS, NLP & React**
 
 - 📫 How to reach me **mrayanbhaumik@gmail.com**
 
-- 📄 Know about my experiences [https://ayanbhaumik.xyz/assets/Ayan%20Bhaumik.pdf](https://ayanbhaumik.xyz/assets/Ayan%20Bhaumik.pdf)
+- 📄 Know about my experiences [https://ayanbhaumik.in/assets/Ayan%20Bhaumik.pdf](https://ayanbhaumik.in/assets/Ayan%20Bhaumik.pdf)
 
 - ⚡ Fun fact : **I always try find the shortest way to make my project best** 
 
