@@ -12,7 +12,8 @@
 
 - 💬 Ask me about : **Python, JS, NLP & React**
 
-- 📫 How to reach me **mrayanbhaumik@gmail.com** / **connect@ayanbhaumik.in**
+- 📫 How to reach me : 
+**mrayanbhaumik@gmail.com**  **connect@ayanbhaumik.in**
 
 - 📄 Know about my experiences [https://ayanbhaumik.in/assets/Ayan%20Bhaumik.pdf](https://ayanbhaumik.in/assets/Ayan%20Bhaumik.pdf)
 
