@@ -4,9 +4,10 @@
 <img align="right" alt="Coding" width="400" src="./Working.gif">
 
 
-- 🔭 I’m currently working as : **Open Source Contributer**
 
-- 🌱 I’m currently learning : **Angular**
+- 🔭 I’m currently working as : **Open Source Contributer @GitHub**
+
+- 🌱 I’m currently learning : **Angular & DSA**
 
 - 👨‍💻 All of my projects are available at [https://ayanbhaumik.in/](https://ayanbhaumik.in/)
 
