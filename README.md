@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working as : **Open Source Contributer @GitHub**
+- 🔭 I’m currently working as : **CTO @Apni Vidya** & **Open Source Contributer @GitHub**
 
 - 🌱 I’m currently learning : **Angular & DSA**
 
