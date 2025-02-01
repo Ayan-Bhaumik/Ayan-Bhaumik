@@ -47,17 +47,17 @@
 </p>
 
 <h3 align="left">Achievements:</h3>
-- 🏆 **Runner-up** at Arjuna 1.0 (Hackathon organized by CITC at NIT Agartala).
-- 🥈 **2nd Place** in the DevOps challenge at TechNOVATE 2025 (Organized by The ICFAI University, Tripura).
-- 🌟 **Active Open Source Contributor** with 1,700+ contributions on GitHub in the last 365 days.
-- 💻 **Active LeetCode problem solver**.
+- 🏆 Runner-up at Arjuna 1.0 (Hackathon organized by CITC at NIT Agartala).
+- 🥈 nd Place in the DevOps challenge at TechNOVATE 2025 (Organized by The ICFAI University, Tripura).
+- 🌟 Active Open Source Contributor with 1,700+ contributions on GitHub in the last 365 days.
+- 💻 Active LeetCode problem solver.
 
 <h3 align="left">Education:</h3>
-- 🎓 **Bachelor of Computer Science & Engineering** at The ICFAI University, Tripura (Aug 2022 - Present).
-- 🎓 **Programming Languages** at Brainware University, Tripura (Jan 2022 - Dec 2022).
+- 🎓  Bachelor of Computer Science & Engineering at The ICFAI University, Tripura (Aug 2022 - Present).
+- 🎓  Programming Languages at Brainware University, Tripura (Jan 2022 - Dec 2022).
 
 <h3 align="left">Technical Skills:</h3>
-- **Programming Languages:** C, C++, Java, JavaScript, Kotlin, Dart, Python.
-- **Frameworks:** HTML, CSS, Tailwind CSS, React JS, Node JS, Three JS, SQL.
-- **Tools & Technologies:** DSA, UI/UX, Full Stack Development, Android Development, AI, ML, Generative AI, Figma.
-- **Certifications:** Artificial Intelligence, Natural Language Processing (NLP), Machine Learning using Python, Data Science & Analytics, Project Management, Cybersecurity.
+- Programming Languages: C, C++, Java, JavaScript, Kotlin, Dart, Python.
+- Frameworks: HTML, CSS, Tailwind CSS, React JS, Node JS, Three JS, SQL.
+- Tools & Technologies: DSA, UI/UX, Full Stack Development, Android Development, AI, ML, Generative AI, Figma.
+- Certifications: Artificial Intelligence, Natural Language Processing (NLP), Machine Learning using Python, Data Science & Analytics, Project Management, Cybersecurity.
