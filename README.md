@@ -1,4 +1,4 @@
-[<img align="center" src="./github-header-image.png" alt="Ayan Bhaumik Banner">](https://ayanbhaumik.in/)
+[<img align="center" src="./header.gif" alt="Ayan Bhaumik Banner">](https://ayanbhaumik.in/)
 
 <h1 align="center">Hi 👋🏻, I'm Ayan Bhaumik</h1>
 <h3 align="center">🚀 AI & ML Specialist | Full Stack Developer | Cyber Security Enthusiast | Project Manager</h3>
