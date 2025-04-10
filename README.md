@@ -9,6 +9,8 @@
 ---
 
 ### 🔭 **Currently Working As:**
+
+- **SQL Server Trainee & Consultancy** @Maruti Suzuki India Limited
 - **CTO** @Apni Vidya & Apni Estate
 - **Open Source Contributor** @GitHub
 
