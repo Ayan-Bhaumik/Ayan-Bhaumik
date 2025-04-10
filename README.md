@@ -74,6 +74,8 @@ I always try to find the shortest way to make my project the best! 🚀
 ---
 
 ### <h3 align="left">🏆 Achievements:</h3>
+
+- 🥈 **1st Place** in the App/Web Development challenge at TechNOVATE 2025 part of ICARIA 2K25 (Organized by The ICFAI University, Tripura).
 - 🥈 **Runner-up** at Arjuna 1.0 (Hackathon organized by CITC at NIT Agartala).
 - 🥈 **2nd Place** in the DevOps challenge at TechNOVATE 2025 (Organized by The ICFAI University, Tripura).
 - 🌟 **Active Open Source Contributor** with 1,700+ contributions on GitHub in the last 365 days.
