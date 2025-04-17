@@ -21,7 +21,7 @@
 [🌐 Check out my portfolio](https://ayanbhaumik.in/)
 
 ### 💬 **Ask Me About:**
-- **Python**, **SEO**, **JavaScript**, **NLP**, **AI**, **Web Development**, **Cybersecurity**
+- **Python**, **MERN**, **SEO**, **JavaScript**, **NLP**, **AI**, **Web Development**, **Cybersecurity**
 
 ### 📫 **How to Reach Me:**
 - **📧 Email:** [mrayanbhaumik@gmail.com](mailto:mrayanbhaumik@gmail.com) | [connect@ayanbhaumik.in](mailto:connect@ayanbhaumik.in)
