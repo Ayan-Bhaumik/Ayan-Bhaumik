@@ -85,7 +85,7 @@ I always try to find the shortest way to make my project the best! 🚀
 
 ### <h3 align="left">🎓 Education:</h3>
 - **Bachelor of Computer Science & Engineering** at The ICFAI University, Tripura (Aug 2022 - Present).
-- **Programming Languages** at Brainware University, Tripura (Jan 2022 - Dec 2022).
+- **Programming Languages** at Brainware University, Tripura (Jan 2023 - Jun 2024).
 
 ---
 
