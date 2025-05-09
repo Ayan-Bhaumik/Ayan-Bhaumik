@@ -11,7 +11,6 @@
 ### 🔭 **Currently Working As:**
 
 - **SQL Developer & Consultant** @Maruti Suzuki India Limited
-- **CTO** @Apni Vidya & Apni Estate
 - **Open Source Contributor** @GitHub
 
 ### 🌱 **Currently Learning:**
@@ -73,6 +72,39 @@ I always try to find the shortest way to make my project the best! 🚀
 
 ---
 
+### <h3 align="left">🎓 Education:</h3>
+
+- **Bachelor of Computer Science & Engineering** at The ICFAI University, Tripura (Aug 2022 - Present).
+- **Programming Languages** at Brainware University, Tripura (Jan 2023 - Jun 2024).
+  
+---
+
+### 🧠 Experience
+
+- **Software Developer – Jain Udyog (Maruti Suzuki India Limited)**  
+  *April 2025 – Present*  
+  - Manage and optimize SQL Server databases for Maruti Suzuki operations across Tripura and Assam.  
+  - Troubleshoot performance issues and integrate remote/local systems using VB.NET and SQL for seamless data access.
+
+- **Chief Technology Officer – Apni Vidya & Apni Estate**  
+  *Nov 2022 – May 2025*  
+  - Spearheaded development of educational and real estate platforms, resulting in a **60% boost in user engagement**.  
+  - Led cross-functional teams to design user-centric features, contributing to a **35% increase in project success rates**.
+  
+- **WEB & APP Developer Intern – OraRide**  
+  *June 2024 – July 2024*
+  - Led a team of developers to design and build innovative mobile applications, ensuring timely and high-quality delivery.
+  - Strengthened technical expertise while fostering a collaborative and efficient development environment.
+  - Gained hands-on leadership experience and improved problem-solving skills through real-world project challenges.
+  
+- **Full Stack Developer – Freelance / University Projects**  
+  *2022 – Present*  
+  - Built **COMPASS**, a tourism planner platform using React.js, Golang & MongoDB – guided by ICFAI University, sponsored by Govt. of Tripura.  
+  - Developed **Care Plus**, a doctor appointment booking system using the MERN stack.  
+  - Created **IGRIS**, an AI-based decision-making tool using PyQt5, JSON, and OS modules – showcased at **BRICS IIT Guwahati**, **NIT Agartala**, and **ICFAI University**.
+
+---
+
 ### <h3 align="left">🏆 Achievements:</h3>
 
 - 🥈 **1st Place** in the App/Web Development challenge at TechNOVATE 2025 part of ICARIA 2K25 (Organized by The ICFAI University, Tripura).
@@ -80,12 +112,6 @@ I always try to find the shortest way to make my project the best! 🚀
 - 🥈 **2nd Place** in the DevOps challenge at TechNOVATE 2025 (Organized by The ICFAI University, Tripura).
 - 🌟 **Active Open Source Contributor** with 1,700+ contributions on GitHub in the last 365 days.
 - 💻 **Active LeetCode problem solver**.
-
----
-
-### <h3 align="left">🎓 Education:</h3>
-- **Bachelor of Computer Science & Engineering** at The ICFAI University, Tripura (Aug 2022 - Present).
-- **Programming Languages** at Brainware University, Tripura (Jan 2023 - Jun 2024).
 
 ---
 
