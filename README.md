@@ -1,6 +1,8 @@
-[![Header](./header.gif)](https://ayanbhaumik.in)
+<p align="center">
+  <img src="./header.gif" alt="Header GIF"/>
+</p>
 
-<h1 align="center">Hi 👋🏻, I'm Ayan Bhaumik</h1>
+<h1 align="center">Hi 👋🏻, I'm <span style="color:#00BFFF">Ayan Bhaumik</span></h1>
 <h3 align="center">🚀 AI & ML Specialist | Full Stack Developer | Cybersecurity Enthusiast | Project Manager</h3>
 <p align="center">📍 Tripura, India • 🔗 <a href="https://ayanbhaumik.in">ayanbhaumik.in</a></p>
 
@@ -8,106 +10,121 @@
 
 <img align="right" alt="Coding" width="400" src="./Working.gif">
 
-### 🚀 Currently Working As:
-- 💼 SQL Developer & Consultant @ **Maruti Suzuki India Limited**
-- 🌐 Open Source Contributor on **GitHub**
+### 💼 Currently Working As:
+- 🖥 SQL Developer & Consultant @ **Maruti Suzuki India Limited**
+- 🌐 Passionate Open Source Contributor on **GitHub**
 
-### 🌱 Currently Learning:
-- 🎯 Three.js
-- 📘 Data Structures & Algorithms (DSA)
+### 📚 Currently Learning:
+- 🧠 **Three.js** for 3D Web
+- 🔍 **Data Structures & Algorithms** (Level Up on LeetCode)
 
-### 👨‍💻 Portfolio:
-🔗 [Check it out](https://ayanbhaumik.in)
+### 🧑‍💻 Portfolio:
+🔗 [**Visit My Portfolio** »](https://ayanbhaumik.in)
 
 ### 💬 Ask Me About:
 `Python` • `MERN Stack` • `AI/ML` • `SEO` • `Cybersecurity` • `NLP`
 
-### 📫 Reach Me:
-- 📧 [mrayanbhaumik@gmail.com](mailto:mrayanbhaumik@gmail.com)
-- 📧 [connect@ayanbhaumik.in](mailto:connect@ayanbhaumik.in)
+### 📩 Contact Me:
+- ✉️ [mrayanbhaumik@gmail.com](mailto:mrayanbhaumik@gmail.com)
+- ✉️ [connect@ayanbhaumik.in](mailto:connect@ayanbhaumik.in)
 
 ### 📄 Resume:
-📥 [Download Here](https://drive.google.com/file/d/1-dT8d-Qw_DhFb77X1rBEQZ0CTLj4FC_N/view?usp=sharing)
+📥 [**Download Here**](https://drive.google.com/file/d/1-dT8d-Qw_DhFb77X1rBEQZ0CTLj4FC_N/view?usp=sharing)
 
 ---
 
-### 🌐 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayan-bhaumik/)
-[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)](https://github.com/Ayan-Bhaumik)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/ayanbhaumik_)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram)](https://instagram.com/ayan.bk_)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook)](https://www.facebook.com/profile.php?id=100083900564550)
+### 🌐 Connect With Me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayan-bhaumik/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Ayan-Bhaumik"><img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://twitter.com/ayanbhaumik_"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://instagram.com/ayan.bk_"><img src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100083900564550"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</p>
 
 ---
 
-### 🛠️ Languages & Tools:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,react,nodejs,cpp,java,js,html,css,tailwind,figma,mysql,git,linux,flutter,dart,angular,android,kotlin,ts" />
+### 🛠️ Tech Stack:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,react,nodejs,flutter,dart,angular,kotlin,mysql,git,linux,html,css,tailwind,figma" />
 </p>
 
 ---
 
 ### 🎓 Education:
-- 🎓 B.Tech in CSE @ **The ICFAI University, Tripura** *(2022 - Present)*
-- 🎓 Programming Languages @ **Brainware University, Tripura** *(2023 - 2024)*
+- 🎓 **B.Tech in CSE** – ICFAI University, Tripura *(2022 – Present)*
+- 📚 **Programming Languages** – Brainware University *(2023 – 2024)*
 
 ---
 
-### 🧠 Experience:
-#### 💼 Software Developer – Jain Udyog (Maruti Suzuki)
-`Apr 2025 – Present`
-- Managed & optimized SQL Server databases.
-- Integrated systems using VB.NET & SQL.
+### 💼 Experience:
+#### 🏢 **Software Developer** – Jain Udyog (Maruti Suzuki)  
+*Apr 2025 – Present*  
+🛠 SQL Server DBs • VB.NET • Optimization
 
-#### 🏢 CTO – Apni Vidya & Apni Estate
-`Nov 2022 – May 2025`
-- Boosted user engagement by 60%.
-- Improved project delivery success by 35%.
+#### 🚀 **CTO** – Apni Vidya & Apni Estate  
+*Nov 2022 – May 2025*  
+📈 User Growth +60% • 📦 Delivery +35%
 
-#### 📱 Web & App Dev Intern – OraRide
-`June 2024 – July 2024`
-- Led app development projects.
-- Improved team collaboration & delivery quality.
+#### 📱 **Web & App Dev Intern** – OraRide  
+*Jun 2024 – Jul 2024*  
+💡 Led app builds • Boosted collaboration
 
-#### 🔧 Full Stack Developer – Freelance/University Projects
-`2022 – Present`
-- Built **COMPASS**, **Care Plus**, and **IGRIS** platforms using MERN, Go, PyQt5, etc.
+#### 👨‍💻 **Freelancer/University Projects**  
+*2022 – Present*  
+🛠 Platforms: **COMPASS**, **Care Plus**, **IGRIS**
 
 ---
 
 ### 🏆 Achievements:
-- 🥇 **1st Place**, TechNOVATE 2025 (App/Web)
-- 🥈 **2nd Place**, Arjuna 1.0 @ NIT Agartala
-- 🥈 **2nd Place**, DevOps – TechNOVATE 2025
-- 🌟 1700+ GitHub contributions (last 365 days)
-- 🧠 Active LeetCode problem solver
+- 🥇 1st Place – **TechNOVATE 2025** *(App/Web)*
+- 🥈 2nd Place – **Arjuna 1.0**, NIT Agartala
+- 🥈 2nd Place – **DevOps @ TechNOVATE**
+- 📈 **1700+** GitHub Contributions (Past Year)
+- 🔥 **Daily** DSA Practice on LeetCode
 
 ---
 
-### 💡 Skills Snapshot:
-**Languages:** C, C++, Java, Python, JavaScript, Dart, Kotlin  
-**Frameworks/Tech:** MERN, Tailwind, Three.js, SQL, Android  
-**Focus Areas:** AI, ML, Gen AI, Cybersecurity, UI/UX, DSA  
+### 💡 Quick Skill Snapshot:
+```yaml
+Languages:
+  - Python, JavaScript, TypeScript, Java, C++, Dart, Kotlin
+Frameworks/Tech:
+  - MERN, Three.js, Flutter, Tailwind, SQL, Android
+Domains:
+  - AI, Machine Learning, Cybersecurity, GenAI, UI/UX
+````
 
 ---
 
 ### 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayan-Bhaumik&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayan-Bhaumik&theme=radical" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayan-Bhaumik&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ayan-Bhaumik&theme=radical&date_format=M%20j%5B%2C%20Y%5D" height="150"/>
 </p>
 
-### 🧮 Top Languages:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayan-Bhaumik&layout=compact&theme=radical" />
+### 📈 Most Used Languages:
 
-### 📈 GitHub Contribution:
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayan-Bhaumik&theme=react-dark&hide_border=true&area=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayan-Bhaumik&layout=compact&theme=radical" />
+</p>
 
 ---
 
-### 👁 Visitor Count:
-<img src="https://profile-counter.glitch.me/Ayan-Bhaumik/count.svg" />
+### 🔥 Contribution Graph:
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayan-Bhaumik&theme=react-dark&hide_border=true&area=true"/>
+</p>
+
+---
+
+### 👁 Visitor Counter:
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Ayan-Bhaumik/count.svg" />
+</p>
+
+---
