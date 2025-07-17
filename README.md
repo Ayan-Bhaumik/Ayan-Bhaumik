@@ -81,7 +81,7 @@
 - 🥇 1st Place – **TechNOVATE 2025** *(App/Web)*
 - 🥈 2nd Place – **Arjuna 1.0**, NIT Agartala
 - 🥈 2nd Place – **DevOps @ TechNOVATE**
-- 📈 **1700+** GitHub Contributions (Past Year)
+- 📈 **2000+** GitHub Contributions (Past Year)
 - 🔥 **Daily** DSA Practice on LeetCode
 
 ---
